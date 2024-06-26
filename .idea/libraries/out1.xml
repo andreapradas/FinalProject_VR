@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="out1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/project_dex_archive/release/out/70a134c5494784b7f7c4f19220aad775273b4c1499b5eb7dd6bd204767745c80_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/project_dex_archive/release/out/70a134c5494784b7f7c4f19220aad775273b4c1499b5eb7dd6bd204767745c80_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/project_dex_archive/release/out/70a134c5494784b7f7c4f19220aad775273b4c1499b5eb7dd6bd204767745c80_0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/project_dex_archive/release/out/70a134c5494784b7f7c4f19220aad775273b4c1499b5eb7dd6bd204767745c80_3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
